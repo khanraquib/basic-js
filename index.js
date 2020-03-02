@@ -17,11 +17,13 @@
 
 //  fucction
 // function mul(a,b){
-//      c=a*b;
-//  } mul(2,4)
-//  console.log(c)
+   
+//     c=a*b;
 
-// if statement
+//  } mul(2,4)
+//   console.log(c)
+
+// if statement- 
 // var a=19;
 // if(a>18){
 //     console.log("you can vote")
@@ -46,9 +48,9 @@
 // switch statement
 
 // var a=0;
-// switch(a=2){
-//     case 0:
-//         console.log("a is zero")
+//  switch(a=1){
+//      case 0:
+//          console.log("a is zero")
 //         break;
 //         case 1:
 //             console.log("a is positive")
@@ -84,5 +86,39 @@
 // while(a<10)
 // // console.log(a)
 
+// scope of variable
+
+// var name="khan";
+
+// function first(){
+//     var a="hello!";
+//    second();
+//    var x=a+name;
+//    console.log(x);
+   
+// }
+// function second(){
+//     var b="hii!";
+//    third();
+//    var y=b+name;
+//    console.log(y);
+// }
+// function third(){
+//     var c="hey!";
+//    var z=c+name;
+//    console.log(z);
+// }
+// first();
+
+// array
 
 
+// Array assignment
+// var myarray=[1,2,3,4,5,6,7,"done"];
+// function practice(){
+//     for (i=0;i<myarray.length;i++)
+//     console.log(myarray[i]+ "");
+// } practice();
+
+
+    
